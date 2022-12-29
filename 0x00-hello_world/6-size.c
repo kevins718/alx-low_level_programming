@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - Entry
+ *main - Entry point
  *Description - Prints the sizes of the  various types
+ *Description - prints the sizes of the various types
  *return: 0 if exited properly
  */
 
